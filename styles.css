@@ -1,0 +1,15 @@
+style{
+body{
+	background-color-light blue;
+	font color-black;
+}
+.container{
+color = light green;
+font-color = black;
+padding = 10px;
+}
+.highlight{
+	background-color = red
+} 
+
+	
